@@ -9,7 +9,7 @@ import java.io.ByteArrayOutputStream;
 
 /**
  * java自带方式实现XML序列化/反序列化
- * @author bfy
+ * @author flytoyou
  * @version 1.0.0
  */
 public class XML2Serializer implements ISerializer {

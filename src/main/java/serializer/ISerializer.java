@@ -3,7 +3,7 @@ package serializer;
 /**
  * 定义序列化/反序列化通用接口
  *
- * @author bfy
+ * @author flytoyou
  * @version 1.0.0
  */
 public interface ISerializer {

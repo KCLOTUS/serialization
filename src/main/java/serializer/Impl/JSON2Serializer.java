@@ -7,7 +7,7 @@ import serializer.ISerializer;
 /**
  * fastjson实现JSON序列化/反序列化
  *
- * @author bfy
+ * @author flytoyou
  * @version 1.0.0
  */
 public class JSON2Serializer implements ISerializer{

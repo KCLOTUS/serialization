@@ -10,7 +10,7 @@ import java.io.ByteArrayOutputStream;
 /**
  * Hessian跨语言传输的二进制序列化协议
  *
- * @author bfy
+ * @author flytoyou
  * @version 1.0.0
  */
 public class HessianSerializer implements ISerializer{
