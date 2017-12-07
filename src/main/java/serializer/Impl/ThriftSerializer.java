@@ -7,6 +7,12 @@ import org.apache.thrift.TSerializer;
 import org.apache.thrift.protocol.TBinaryProtocol;
 import serializer.ISerializer;
 
+/**
+ * Thrift序列化/反序列化
+ *
+ * @author flytoyou
+ * @version 1.0.0
+ */
 public class ThriftSerializer implements ISerializer {
     @Override
     public <T> byte[] serialize(T obj) {
